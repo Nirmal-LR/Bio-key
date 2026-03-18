@@ -1,0 +1,7 @@
+numpy
+scipy
+streamlit
+cryptography
+wfdb
+neurokit2
+matplotlib

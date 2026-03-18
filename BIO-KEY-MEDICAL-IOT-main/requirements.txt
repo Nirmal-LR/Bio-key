@@ -1,0 +1,8 @@
+numpy
+scipy
+neurokit2
+cryptography
+matplotlib
+reedsolo
+wfdb
+cryptography
